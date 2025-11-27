@@ -2,6 +2,10 @@
 
 Bu repo iki ana amaç için hazırlanmıştır:
 
+# Yazılım Geliştirme Araçları Ders Notu
+
+Bu repo iki ana amaç için hazırlanmıştır:
+
 1. **Ders materyali:** Yazılım geliştirme araçları (IDE, Git, CI/CD, Docker, test araçları vb.) için teorik anlatım ve örnek projeler.
 2. **Kişisel çalışma alanı:** Üretken yapay zeka ve **prompt engineering** üzerine kendi notların, lab'ların ve şablonların.
 
@@ -10,6 +14,7 @@ Bu repo iki ana amaç için hazırlanmıştır:
 - `ornek-proje/` → Todo uygulaması (API + Docker + CI/CD)
 - `uretken-yapay-zeka/` → GenAI kullanım notları ve prompt örnekleri
 - `prompt-engineering/` → Kendi prompt engineering çalışma alanın (temel notlar, lab'lar, şablonlar)
+- `notebookLM/` → Google NotebookLM ile ilgili rehber ve notlar
 
 ## 📑 İçindekiler
 
@@ -593,6 +598,8 @@ Bu repository'de aşağıdaki ek kaynaklar bulunmaktadır:
   - IntelliJ IDEA, Maven, Kubernetes, GitLab CI/CD, SonarQube
 - **uretken-yapay-zeka/** - Üretken yapay zeka (GenAI) araçları için notlar ve prompt örnekleri
 - **prompt-engineering/** - Kişisel prompt engineering notların, lab'ların ve şablonların
+- **notebookLM/** - Google NotebookLM kullanım rehberi ve notları
+- **Untitlednotebook/** - Örnek bir dijital not defteri projesi (Python script ve README içerir)
 
 ---
 
@@ -614,3 +621,4 @@ This repository contains:
 - An **example Todo project** with Node.js, tests, Docker and GitHub Actions.
 - A **GenAI section** (`uretken-yapay-zeka/`) with notes and prompt examples.
 - A personal **prompt engineering playground** (`prompt-engineering/`) with principles, labs and reusable prompt templates.
+- **NotebookLM guide** (`notebookLM/`) and a sample **Untitled Notebook** project (`Untitlednotebook/`).
