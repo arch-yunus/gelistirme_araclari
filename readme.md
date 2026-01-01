@@ -39,6 +39,7 @@ Bu repo, yazılım dünyasına yeni adım atanlardan deneyimli geliştiricilere 
 | `perplexity/` | **[YENİ]** Gerçek zamanlı yapay zeka arama motoru. |
 | `poe/` | **[YENİ]** Tüm yapay zeka modellerine tek noktadan erişim. |
 | `stable-diffusion/` | **[YENİ]** Açık kaynak metinden görsel üretme (Text-to-Image). |
+| `teachable-machine/` | **[YENİ]** Kod yazmadan kendi makine öğrenmesi modelinizi eğitin. |
 | `notebookLM/` | Google'ın yapay zeka destekli not defteri rehberi. |
 
 ---
@@ -100,6 +101,7 @@ Gelecek şimdi.
 *   **Perplexity:** İnternet erişimli, kaynak gösteren cevap motoru.
 *   **Poe:** GPT-4, Claude 3 ve daha fazlasına tek arayüzden ulaşın.
 *   **Stable Diffusion:** Kendi bilgisayarınızda sınırsız görsel üretin.
+*   **Teachable Machine:** Google ile kodsuz model (görüntü, ses, poz) eğitimi.
 *   **Gamma App:** Sadece metin girerek profesyonel sunumlar oluşturun.
 *   **Canva Magic Design:** Tasarım bilmeden profesyonel görseller üretin.
 *   **NotebookLM:** Kaynaklarınızla sohbet edin, öğrenmeyi hızlandırın.
