@@ -38,6 +38,7 @@ Bu repo, yazılım dünyasına yeni adım atanlardan deneyimli geliştiricilere 
 | `canva-magic-design/` | **[YENİ]** Tasarım süreçlerinde yapay zeka devrimi. |
 | `perplexity/` | **[YENİ]** Gerçek zamanlı yapay zeka arama motoru. |
 | `poe/` | **[YENİ]** Tüm yapay zeka modellerine tek noktadan erişim. |
+| `stable-diffusion/` | **[YENİ]** Açık kaynak metinden görsel üretme (Text-to-Image). |
 | `notebookLM/` | Google'ın yapay zeka destekli not defteri rehberi. |
 
 ---
@@ -98,6 +99,7 @@ Gelecek şimdi.
 *   **DeepSeek:** Açık kaynak kodlama ve dil modelleri.
 *   **Perplexity:** İnternet erişimli, kaynak gösteren cevap motoru.
 *   **Poe:** GPT-4, Claude 3 ve daha fazlasına tek arayüzden ulaşın.
+*   **Stable Diffusion:** Kendi bilgisayarınızda sınırsız görsel üretin.
 *   **Gamma App:** Sadece metin girerek profesyonel sunumlar oluşturun.
 *   **Canva Magic Design:** Tasarım bilmeden profesyonel görseller üretin.
 *   **NotebookLM:** Kaynaklarınızla sohbet edin, öğrenmeyi hızlandırın.
