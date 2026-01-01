@@ -16,37 +16,44 @@ Perplexity'nin en güçlü yanı **güvenilirliktir**.
 - Bu sayede halüsinasyon (yanlış bilgi uydurma) riski minimuma iner.
 
 ### 3. Copilot (Pro Search)
-Karmaşık sorularınız için adım adım araştırma yapan bir ajandır.
-- **Örnek:** "Bana 2024 model, 1 milyon TL altı, hibrit ve sunroof'lu bir araç bul" dediğinizde, Copilot size ek sorular sorar: "Hatchback mi SUV mi istersiniz?", "Hangi marka tercih edersiniz?" vb. Bu şekilde aramayı daraltır.
+Karmaşık sorularınız için adım adım araştırma yapan bir ajandır. Standart aramadan farklı olarak size **soru sorar**.
+- **Senaryo:** "Bana bir laptop öner."
+- **Copilot:** "Bütçeniz nedir?", "Oyun için mi iş için mi kullanacaksınız?", "Mac mi Windows mu tercih edersiniz?"
+- **Sonuç:** Verdiğiniz cevaplara göre filtrelenmiş, nokta atışı öneriler.
 
-### 4. Farklı Modellerle Çalışma
-Perplexity Pro kullanıcıları, cevapları hangi modelin üreteceğini seçebilir:
-- **GPT-4o** (OpenAI)
-- **Claude 3 Opus / Sonnet** (Anthropic)
-- **Sonar Large** (Perplexity'nin kendi Llama 3 tabanlı modeli)
+## İleri Seviye Kullanım
 
-## Kullanım Alanları
+### 🔎 Arama Operatörleri
+Google'da olduğu gibi Perplexity'de de aramalarınızı özelleştirebilirsiniz:
+- **`site:reddit.com`**: Aramayı sadece Reddit içinde yapar.
+- **`after:2024`**: Sadece 2024 sonrası içerikleri getirir.
+- **`filetype:pdf`**: Sadece PDF dosyalarını arar.
+- **`related:techcrunch.com`**: TechCrunch benzeri sitelerde arama yapar.
 
-### 🎓 Akademik Araştırma
-"Yapay zekanın etik sorunları hakkında son 5 yılda yayınlanan makalelerin özeti nedir?" gibi sorularla literatür taraması yapabilirsiniz. "Academic" modu seçerek aramayı sadece bilimsel makalelerle sınırlayabilirsiniz.
+### 📚 Koleksiyonlar (Collections)
+Aramalarınızı konularına göre gruplayıp saklayabilirsiniz.
+- **Örnek:** "Yapay Zeka Haberleri", "Python Dersleri", "Tatil Planı" gibi başlıklar altında ilgili sohbetleri toplayabilir ve bu koleksiyonun linkini arkadaşlarınızla paylaşabilirsiniz.
+- **Prompt Tanımlama:** Koleksiyonunuza özel bir "Sistem Kuralı" ekleyebilirsiniz. (Örn: "Bu koleksiyondaki her cevabı 5 yaşında birine anlatır gibi ver.")
 
-### 💻 Yazılım Geliştirme
-Güncel kütüphaneler ve hatalar hakkında bilgi almak için idealdir.
-- **Soru:** "React 19'daki yeni 'use' hook'u nasıl çalışır ve useEffect'ten farkı nedir?"
-- **Cevap:** Resmi React dokümantasyonunu ve güncel blog yazılarını tarayarak size kod örnekli bir açıklama sunar.
+## Karşılaştırma
 
-### 📊 Pazar Analizi
-Rakip analizi veya trend takibi için hızlı raporlar oluşturabilir.
+| Özellik | Google | ChatGPT (Plus) | Perplexity |
+| :--- | :--- | :--- | :--- |
+| **Ana Amaç** | Link bulmak | Metin/Kod üretmek | Cevap bulmak |
+| **Güncellik** | Anlık | Canlı (Browse ile) | Anlık |
+| **Kaynak** | Link listesi | Nadiren | Her cümlede |
+| **Reklam** | Çok fazla | Yok | Yok |
 
 ## İpuçları
 
 - **Odak (Focus) Modu:** Arama çubuğundaki "Focus" butonuna tıklayarak aramanızı daraltabilirsiniz:
-    - **Writing:** İnternet araması yapmadan sadece metin üretir.
-    - **Academic:** Sadece akademik makaleleri tarar.
-    - **YouTube:** Videoların içindeki bilgileri arar.
-    - **Reddit:** Topluluk tartışmalarını tarar.
+    - **Writing:** İnternet araması yapmadan sadece metin üretir (ChatGPT gibi davranır).
+    - **Academic:** Sadece yayınlanmış bilimsel makaleleri tarar.
+    - **YouTube:** Videoların içindeki bilgileri arar (Video izlemeden içeriği öğrenmek için harika).
+    - **Reddit:** Topluluk tartışmalarını ve kullanıcı yorumlarını tarar.
 
 ## Kaynaklar
 
 - [Perplexity AI](https://www.perplexity.ai/)
 - [Perplexity Blog](https://blog.perplexity.ai/)
+- [Chrome Eklentisi](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplekolbekretroapechp)
