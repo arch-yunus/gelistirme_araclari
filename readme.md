@@ -600,6 +600,7 @@ Bu repository'de aşağıdaki ek kaynaklar bulunmaktadır:
 - **prompt-engineering/** - Kişisel prompt engineering notların, lab'ların ve şablonların
 - **notebookLM/** - Google NotebookLM kullanım rehberi ve notları
 - **deepseek/** - DeepSeek yapay zeka modelleri ve araçları hakkında bilgiler
+- **gamma-app/** - Gamma App (AI sunum aracı) hakkında bilgiler
 - **Untitlednotebook/** - Örnek bir dijital not defteri projesi (Python script ve README içerir)
 
 ---
