@@ -36,6 +36,7 @@ Bu repo, yazılım dünyasına yeni adım atanlardan deneyimli geliştiricilere 
 | `deepseek/` | **[YENİ]** DeepSeek açık kaynak kodlama modelleri. |
 | `gamma-app/` | **[YENİ]** AI ile saniyeler içinde sunum hazırlama. |
 | `canva-magic-design/` | **[YENİ]** Tasarım süreçlerinde yapay zeka devrimi. |
+| `perplexity/` | **[YENİ]** Gerçek zamanlı yapay zeka arama motoru. |
 | `notebookLM/` | Google'ın yapay zeka destekli not defteri rehberi. |
 
 ---
@@ -94,6 +95,7 @@ Robotlarınız iş başında.
 
 Gelecek şimdi.
 *   **DeepSeek:** Açık kaynak kodlama ve dil modelleri.
+*   **Perplexity:** İnternet erişimli, kaynak gösteren cevap motoru.
 *   **Gamma App:** Sadece metin girerek profesyonel sunumlar oluşturun.
 *   **Canva Magic Design:** Tasarım bilmeden profesyonel görseller üretin.
 *   **NotebookLM:** Kaynaklarınızla sohbet edin, öğrenmeyi hızlandırın.
