@@ -609,13 +609,31 @@ Bu repository'de aşağıdaki ek kaynaklar bulunmaktadır:
 
 ## 👨‍💻 Geliştirici Hakkında
 
+## 👨‍💻 Geliştirici Hakkında
+
 **Bahattin Yunus Çetin**  
 *IT Architect & Üniversite Öğrencisi*
 
-Trabzon'un Of ilçesinde üniversite eğitimine devam eden Bahattin Yunus Çetin, modern yazılım mimarileri, bulut bilişim ve yapay zeka teknolojileri üzerine yoğunlaşan bir IT Architect adayıdır. Teknolojik vizyonunu, akademik bilgisiyle birleştirerek sürdürülebilir ve yenilikçi çözümler üretmeyi hedefler.
+### 🚀 Profesyonel Vizyon
+Bahattin Yunus Çetin, modern yazılım mimarileri ve dijital dönüşüm süreçleri üzerine uzmanlaşan vizyoner bir IT Architect adayıdır. Teknolojiyi sadece bir araç olarak değil, karmaşık sorunlara çözüm üreten stratejik bir güç olarak ele almaktadır. Ölçeklenebilir, güvenli ve performans odaklı sistemler tasarlama konusundaki tutkusu, onu sürekli araştırmaya, öğrenmeye ve sınırları zorlamaya itmektedir.
 
-- 🌐 **GitHub:** [bahattinyunus](https://github.com/bahattinyunus)
-- 💼 **LinkedIn:** [Bahattin Yunus Çetin](https://www.linkedin.com/in/bahattinyunus/)
+### 🎓 Akademik Geçmiş
+Eğitim hayatına Trabzon'un köklü ve kültürel zenginlikleriyle bilinen **Of** ilçesinde devam etmektedir. Üniversite eğitimi süresince edindiği güçlü teorik altyapıyı, gerçek dünya projeleriyle harmanlayarak sağlam bir teknik temel inşa etmiştir. Akademik disiplini, profesyonel iş etiğiyle birleştirerek, bulunduğu coğrafyanın azmini ve kararlılığını projelerine yansıtmaktadır.
+
+### 🛠️ Teknik Odak ve Uzmanlık
+Bulut bilişim, yapay zeka entegrasyonları ve DevOps kültürünün benimsenmesi, teknik yetkinliklerinin merkezinde yer alır. Özellikle **DeepSeek** ve **Gamma** gibi yeni nesil üretken yapay zeka araçlarının yazılım geliştirme döngüsüne (SDLC) entegrasyonu konusunda yenilikçi çalışmalar yürütmektedir. Amacı, geliştirme süreçlerini optimize etmek ve otomasyonla verimliliği maksimize eden sürdürülebilir mimariler kurmaktır.
+
+### 🎯 Misyon
+Sürdürülebilir, yenilikçi ve insan odaklı teknolojik çözümler üretmeyi kendine misyon edinmiştir. Açık kaynak dünyasına katkıda bulunmak, bilgi paylaşımıyla teknoloji topluluğuna değer katmak ve geleceğin dijital altyapılarını bugünden tasarlamak, kariyer yolculuğunun en önemli motivasyon kaynaklarındandır.
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahattinyunus/)
+
+</div>
 
 ---
 
