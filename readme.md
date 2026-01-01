@@ -37,6 +37,7 @@ Bu repo, yazılım dünyasına yeni adım atanlardan deneyimli geliştiricilere 
 | `gamma-app/` | **[YENİ]** AI ile saniyeler içinde sunum hazırlama. |
 | `canva-magic-design/` | **[YENİ]** Tasarım süreçlerinde yapay zeka devrimi. |
 | `perplexity/` | **[YENİ]** Gerçek zamanlı yapay zeka arama motoru. |
+| `poe/` | **[YENİ]** Tüm yapay zeka modellerine tek noktadan erişim. |
 | `notebookLM/` | Google'ın yapay zeka destekli not defteri rehberi. |
 
 ---
@@ -96,6 +97,7 @@ Robotlarınız iş başında.
 Gelecek şimdi.
 *   **DeepSeek:** Açık kaynak kodlama ve dil modelleri.
 *   **Perplexity:** İnternet erişimli, kaynak gösteren cevap motoru.
+*   **Poe:** GPT-4, Claude 3 ve daha fazlasına tek arayüzden ulaşın.
 *   **Gamma App:** Sadece metin girerek profesyonel sunumlar oluşturun.
 *   **Canva Magic Design:** Tasarım bilmeden profesyonel görseller üretin.
 *   **NotebookLM:** Kaynaklarınızla sohbet edin, öğrenmeyi hızlandırın.
