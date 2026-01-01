@@ -2,21 +2,43 @@
 
 Canva Magic Design, yapay zeka gücüyle tasarım sürecini otomatize eden ve herkesin profesyonel görünümlü tasarımlar oluşturmasını sağlayan bir araç setidir.
 
-## Temel Özellikler
+## Magic Studio Araçları ve Özellikleri
 
-- **Metinden Tasarıma:** Sadece bir başlık veya kısa bir açıklama girerek saniyeler içinde sosyal medya gönderileri, posterler veya davetiyeler oluşturabilirsiniz.
-- **Medya Entegrasyonu:** Kendi fotoğraflarınızı yüklediğinizde, Magic Design bu görsellere uygun en iyi şablonları ve düzenlemeleri otomatik olarak önerir.
-- **Marka Uyumu:** Marka renklerinizi, fontlarınızı ve logolarınızı sisteme tanıtarak tüm tasarımların kurumsal kimliğinize uygun olmasını sağlar.
-- **Sunum Oluşturma:** Konu başlığını girerek otomatik olarak başlıklar, metinler ve görsellerle dolu tam bir sunum taslağı oluşturabilirsiniz.
-- **Magic Edit & Eraser:** Görsellerdeki nesneleri yapay zeka ile değiştirebilir (örneğin bir çiçeği pastaya dönüştürmek) veya istenmeyen nesneleri silebilirsiniz.
+### 1. Magic Design (Sihirli Tasarım)
+Bir fotoğraf yükleyin veya bir fikir yazın; Canva size buna uygun, tamamen düzenlenebilir şablonlar sunar.
+*   **Kullanım:** "Instagram Story for a summer sale" yazın, size yazlık temalı satış şablonları versin.
 
-## Kullanım Alanları
+### 2. Magic Switch (Sihirli Dönüştürme)
+Tasarımlarınızı anında farklı formatlara veya dillere çevirir.
+*   **Örnek:** Hazırladığınız bir sunumu tek tıkla bir blog yazısına veya bir Instagram gönderisine dönüştürebilirsiniz.
+*   **Çeviri:** İngilizce hazırladığınız bir afişi saniyeler içinde Türkçeye çevirebilirsiniz.
 
-- **Sosyal Medya Yönetimi:** Hızlı ve etkileyici Instagram, LinkedIn veya Twitter görselleri hazırlamak için.
-- **Pazarlama Materyalleri:** Broşür, el ilanı ve promosyon görsellerini tasarım bilgisi olmadan oluşturmak için.
-- **Hızlı Sunumlar:** Toplantı veya dersler için dakikalar içinde görsel açıdan zengin sunumlar hazırlamak için.
+### 3. Magic Media (Metinden Görsele/Videoya)
+Aklınızdaki görseli tarif edin, yapay zeka çizsin.
+*   **Prompt Örneği:** *"Futuristic city implementation, neon lights, cyberpunk style, high detail"*
+
+### 4. Magic Edit & Eraser (Sihirli Düzenleme ve Silgi)
+*   **Magic Eraser:** Fotoğraftaki istenmeyen nesneleri (örneğin arka plandaki bir turist) siler.
+*   **Magic Edit:** Bir nesneyi seçip başka bir şeyle değiştirebilirsiniz. (Örn: Elindeki elmayı seçip "kırmızı gül" yazarsanız, elma güle dönüşür.)
+
+### 5. Magic Write (Sihirli Yazı)
+Metin yazarlığı asistanınızdır.
+*   Başlıkları genişletebilir, özetleyebilir veya tonunu değiştirebilir (daha profesyonel, daha eğlenceli vb.).
+
+## Etkili Prompt Örnekleri
+
+| Araç | Amaç | Prompt Örneği |
+|------|------|---------------|
+| **Magic Design** | Doğum günü kartı | *"A fun and colorful birthday invitation for a 5-year-old boy with dinosaur theme"* |
+| **Magic Media** | Sunum görseli | *"A professional team shaking hands in a modern office, bright lighting, realistic style"* |
+| **Magic Write** | Blog girişi | *"Write an engaging introduction about the benefits of remote work for software developers"* |
+
+## Sınırlamalar ve İpuçları
+*   **Versiyon:** Çoğu "Magic" özellik Canva Pro aboneliği gerektirir.
+*   **Netlik:** Yapay zeka ne kadar net tarif alırsanız o kadar iyi sonuç verir. Soyut kavramlar yerine somut nesneler ve stiller belirtin.
 
 ## Kaynaklar
 
-- [Canva Magic Design Sayfası](https://www.canva.com/magic-design/)
-- [Canva Design School](https://www.canva.com/designschool/)
+- [Canva Magic Design Tanıtımı](https://www.canva.com/magic-design/)
+- [Canva Design School - AI Dersleri](https://www.canva.com/designschool/tutorials/)
+- [Canva YouTube Kanalı](https://www.youtube.com/canva)

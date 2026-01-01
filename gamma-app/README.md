@@ -4,20 +4,35 @@ Gamma, yapay zeka destekli, sunum, belge ve web sayfası oluşturmayı sağlayan
 
 ## Temel Özellikler
 
-- **Yapay Zeka ile Oluşturma:** Tek bir cümle veya ana hat (outline) ile saniyeler içinde sunumlar, belgeler ve web siteleri oluşturur.
-- **Esnek Tasarım:** PowerPoint slaytlarına sıkışıp kalmak yerine, akışkan ve interaktif kart yapısı sunar.
-- **Tek Tıkla Tema Değişimi:** İçeriği bozmadan tüm tasarım temasını tek tıklamayla değiştirebilirsiniz.
-- **Zengin Medya Desteği:** GIF'ler, videolar, grafikler ve web sitelerini (embed) kolayca entegre edebilirsiniz.
-- **Canlı Sunum Modu:** Oluşturduğunuz içeriği doğrudan tarayıcı üzerinden sunabilirsiniz.
-- **Dışa Aktarma:** PDF veya PowerPoint (PPTX) formatında dışa aktarma imkanı sunar.
+- **AI ile Anında Tasarım:** Tek bir cümle veya ana hat (outline) ile saniyeler içinde sunumlar oluşturur.
+- **Akışkan Kart Yapısı:** Klasik slaytlar yerine, okuması kolay ve interaktif kartlar.
+- **Tek Tıkla Tema:** Renk, font ve stil kombinasyonlarını tek tıkla değiştirme.
+- **Zengin Medya:** YouTube, Vimeo, Spotify, Loom vb. platformlardan içerik gömme (embed).
+- **Analitik:** Sunumlarınızın ne kadar görüntülendiğini takip etme.
 
-## Kullanım Alanları
+## Kullanım Rehberi: Sıfırdan Sunum Oluşturma
 
-- **Eğitim Sunumları:** Ders notlarını hızlıca görsel sunumlara çevirmek için.
-- **İş Raporları:** Sıkıcı raporları etkileyici, okunabilir belgelere dönüştürmek için.
-- **Proje Tanıtımları:** Fikirlerinizi veya ürünlerinizi tanıtmak için hızlı web sayfaları oluşturmak için.
+1. **Giriş Yapın:** [Gamma.app](https://gamma.app) adresine gidin.
+2. **"Create New" Deyin:** "Generate" (AI ile oluştur) seçeneğini seçin.
+3. **Formatı Seçin:** "Presentation" (Sunum), "Document" (Belge) veya "Webpage" (Web Sitesi).
+4. **Konuyu Yazın:** Örneğin: *"Yapay Zekanın Geleceği ve İş Dünyasına Etkileri"*.
+5. **Taslağı Düzenleyin:** Gamma size önce bir konu başlıkları listesi (outline) sunar. Bunu düzenleyebilir veya onaylayabilirsiniz.
+6. **Tema Seçin:** İstediğiniz görsel stili (Karanlık, Renkli, Profesyonel vb.) seçin.
+7. **Oluştur!:** Gamma saniyeler içinde tüm slaytları, metinleri ve görselleri oluşturur.
+
+## İpuçları ve Püf Noktaları
+
+### 💡 İyi Bir Prompt Nasıl Yazılır?
+Gamma'nın sizi daha iyi anlaması için detay verin:
+*   **Kötü:** "Pazarlama stratejisi"
+*   **İyi:** "Yeni çıkan organik kahve markamız için, Z kuşağını hedefleyen, Instagram ve TikTok odaklı, samimi bir dille yazılmış 10 slaytlık bir pazarlama stratejisi sunumu."
+
+### 🎨 Kartları Düzenleme
+*   Bir kartın içine `\` (slash) tuşuna basarak resim, video, tablo veya buton ekleyebilirsiniz.
+*   Sağ menüden "Edit with AI" diyerek, sadece o kartı yapay zekaya yeniden yazdırabilirsiniz (örneğin: *"Bu metni daha kısa ve maddeler halinde yaz"*).
 
 ## Kaynaklar
 
 - [Gamma App Resmi Web Sitesi](https://gamma.app/)
 - [Örnek Gamma Sunumları](https://gamma.app/gallery)
+- [Yardım Merkezi](https://help.gamma.app/)
