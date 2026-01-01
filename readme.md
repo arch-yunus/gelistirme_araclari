@@ -599,6 +599,7 @@ Bu repository'de aşağıdaki ek kaynaklar bulunmaktadır:
 - **uretken-yapay-zeka/** - Üretken yapay zeka (GenAI) araçları için notlar ve prompt örnekleri
 - **prompt-engineering/** - Kişisel prompt engineering notların, lab'ların ve şablonların
 - **notebookLM/** - Google NotebookLM kullanım rehberi ve notları
+- **deepseek/** - DeepSeek yapay zeka modelleri ve araçları hakkında bilgiler
 - **Untitlednotebook/** - Örnek bir dijital not defteri projesi (Python script ve README içerir)
 
 ---
