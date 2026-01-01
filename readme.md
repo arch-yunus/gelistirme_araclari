@@ -605,6 +605,20 @@ Bu repository'de aşağıdaki ek kaynaklar bulunmaktadır:
 
 ---
 
+---
+
+## 👨‍💻 Geliştirici Hakkında
+
+**Bahattin Yunus Çetin**  
+*IT Architect & Üniversite Öğrencisi*
+
+Trabzon'un Of ilçesinde üniversite eğitimine devam eden Bahattin Yunus Çetin, modern yazılım mimarileri, bulut bilişim ve yapay zeka teknolojileri üzerine yoğunlaşan bir IT Architect adayıdır. Teknolojik vizyonunu, akademik bilgisiyle birleştirerek sürdürülebilir ve yenilikçi çözümler üretmeyi hedefler.
+
+- 🌐 **GitHub:** [bahattinyunus](https://github.com/bahattinyunus)
+- 💼 **LinkedIn:** [Bahattin Yunus Çetin](https://www.linkedin.com/in/bahattinyunus/)
+
+---
+
 ## 🤝 Katkıda Bulunma
 
 Bu eğitim materyali açık kaynaklıdır. İyileştirme önerileri ve katkılarınızı bekliyoruz!
