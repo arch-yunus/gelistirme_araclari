@@ -33,6 +33,7 @@ Bu repo, yazılım dünyasına yeni adım atanlardan deneyimli geliştiricilere 
 | `ornek-proje/` | Öğrenilen araçların uygulandığı Full-stack Todo uygulaması. |
 | `uretken-yapay-zeka/` | GenAI araçları ve kullanım senaryoları. |
 | `prompt-engineering/` | Prompt mühendisliği labları ve şablonları. |
+| `chatgpt/` | **[YENİ]** Dünyayı değiştiren yapay zeka asistanı. |
 | `deepseek/` | **[YENİ]** DeepSeek açık kaynak kodlama modelleri. |
 | `gamma-app/` | **[YENİ]** AI ile saniyeler içinde sunum hazırlama. |
 | `canva-magic-design/` | **[YENİ]** Tasarım süreçlerinde yapay zeka devrimi. |
@@ -97,6 +98,7 @@ Robotlarınız iş başında.
 ## 4. Yapay Zeka Ekosistemi
 
 Gelecek şimdi.
+*   **ChatGPT:** Kodlama, yazma ve analiz için her an yanınızda.
 *   **DeepSeek:** Açık kaynak kodlama ve dil modelleri.
 *   **Perplexity:** İnternet erişimli, kaynak gösteren cevap motoru.
 *   **Poe:** GPT-4, Claude 3 ve daha fazlasına tek arayüzden ulaşın.
