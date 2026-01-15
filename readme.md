@@ -41,6 +41,7 @@ Bu repo, yazılım dünyasına yeni adım atanlardan deneyimli geliştiricilere 
 | `poe/` | **[YENİ]** Tüm yapay zeka modellerine tek noktadan erişim. |
 | `stable-diffusion/` | **[YENİ]** Açık kaynak metinden görsel üretme (Text-to-Image). |
 | `teachable-machine/` | **[YENİ]** Kod yazmadan kendi makine öğrenmesi modelinizi eğitin. |
+| `heygen/` | **[YENİ]** Yapay zeka ile metinden stüdyo kalitesinde video üretimi. |
 | `notebookLM/` | Google'ın yapay zeka destekli not defteri rehberi. |
 
 ---
@@ -106,6 +107,7 @@ Gelecek şimdi.
 *   **Teachable Machine:** Google ile kodsuz model (görüntü, ses, poz) eğitimi.
 *   **Gamma App:** Sadece metin girerek profesyonel sunumlar oluşturun.
 *   **Canva Magic Design:** Tasarım bilmeden profesyonel görseller üretin.
+*   **HeyGen:** Avatar ve ses klonlama ile metinden profesyonel video üretimi.
 *   **NotebookLM:** Kaynaklarınızla sohbet edin, öğrenmeyi hızlandırın.
 
 ---
