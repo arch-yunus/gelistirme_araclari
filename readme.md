@@ -126,10 +126,10 @@ Teori yetmez, pratik şart. `ornek-proje/` klasörü altında çalışan bir **T
 
 <div align="center">
 
-**Bahattin Yunus Çetin**  
+**Yunus Çetin**  
 *IT Architect & Üniversite Öğrencisi*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arch-yunus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahattinyunus/)
 
 </div>
